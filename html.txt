@@ -4,8 +4,8 @@
 <body>
 <stong><h1>hi iam rasmitha</h1></strong>
 <ul>
-  <li>rasmitha</li>
-  <li>lekha</li>
+  <li>meghana</li>
+  <li>reddy</li>
 </ul>
 </body>
 </html>
